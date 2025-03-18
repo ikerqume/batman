@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+.fotobatman {
+    background: url(./IMG/header_background.jpeg) no-repeat center;
+    background-size: cover;
+    text-align: center;
+    padding: 150px 50px;
+    color: white;
+}
+
+.fotobatman h1 {
+    font-size: 2em;
+    max-width: 600px;
+    margin: auto;
+}
+
+.content {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+}
+
+.section {
+    margin-bottom: 40px;
+}
+
+.video-container {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    margin: 20px 0;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}
+
+a {
+    color: #ff0000;
+    text-decoration: none;
+}
