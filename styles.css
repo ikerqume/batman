@@ -55,3 +55,9 @@ a {
     color: #ff0000;
     text-decoration: none;
 }
+
+.reparto {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
